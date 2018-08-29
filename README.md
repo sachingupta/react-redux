@@ -3,6 +3,8 @@ React TypeScript webpack boilerplate
 based on following tutorial https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
 Setting up dev server https://www.npmjs.com/package/webpack-serve
 
+https://github.com/moonhighway/learning-react/
+
 redux https://www.valentinog.com/blog/react-redux-tutorial-beginners/
 
 git clone https://github.com/sachingupta/react-typescript-webpack-boilerplate.git

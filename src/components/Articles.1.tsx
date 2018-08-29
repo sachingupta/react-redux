@@ -3,10 +3,10 @@ import * as React from "react";
 import * as Styles from "./App.css";
 import * as scssStyles from "./App.scss";
 
-export interface IWelcomeState { articles: any[]; }
+export interface IArticlesState { articles: any[]; }
 
 
-export class Welcome extends React.Component<{}, IWelcomeState>
+export class Articles1 extends React.Component<{}, IArticlesState>
 {
     constructor(props: {}) {
         super(props);
