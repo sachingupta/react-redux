@@ -1,9 +1,9 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-import { Welcome } from "./components/Welcome";
+import { App } from "./components/App";
 
 ReactDOM.render(
-    <Welcome name="Awesome Developer" />,
+    <App />,
     document.getElementById("root")
 );

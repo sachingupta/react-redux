@@ -1,5 +1,5 @@
 {
-  "name": "react-redux",
+  "name": "react-redux-typescript-boilerplate",
   "version": "1.0.0",
   "description": "react redux typescript webpack boilerplate code",
   "main": "dist/index.js",
@@ -35,6 +35,8 @@
     "awesome-typescript-loader": "^5.2.0",
     "css-loader": "^1.0.0",
     "node-sass": "^4.9.3",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
     "sass-loader": "^7.1.0",
     "source-map-loader": "^0.2.4",
     "style-loader": "^0.22.1",
